@@ -28,4 +28,4 @@
 
 [我的GitHub,喜欢的话给个star吧](https://github.com/chenshouyin)
 
-> 本文是同步发布在 [在线助手|在线工具箱](http://www.it399.com/) ，**转载请注明来自 [在线助手](http://www.it399.com/)博客频道【自定义水平刻度尺和圆形钟表刻度 可点击 可拖动 刻度】,原文链接**:**http://it399.com/blog/android/20180412.jsp**
+> 本文同步发布在 [在线助手|在线工具箱](http://www.it399.com/) ，**转载请注明来自 [在线助手](http://www.it399.com/)博客频道【自定义水平刻度尺和圆形钟表刻度 可点击 可拖动 刻度】,原文链接**:**http://it399.com/blog/android/20180412.jsp**
