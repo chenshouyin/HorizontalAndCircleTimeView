@@ -20,7 +20,7 @@
 
 **[项目Github地址](https://github.com/chenshouyin/HorizontalAndCircleTimeView)**
 
-[我的博客](http://blog.csdn.net/e_inch_photo)
-[我的网站:在线助手](http://www.it399.com/)
-[我的简书](http://www.jianshu.com/u/303ec9abdc08)
-[我的GitHub,喜欢的话给个star吧](https://github.com/chenshouyin)
+[我的博客](http://blog.csdn.net/e_inch_photo)<br>
+[我的网站:在线助手](http://www.it399.com/)<br>
+[我的简书](http://www.jianshu.com/u/303ec9abdc08)<br>
+[我的GitHub,喜欢的话给个star吧](https://github.com/chenshouyin)<br>
