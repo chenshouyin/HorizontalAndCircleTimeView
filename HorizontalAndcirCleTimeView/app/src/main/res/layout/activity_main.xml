@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_height="400dp">
+
+    <it399.com.horizontalandcircletimeview.view.HorizontalSeekBar
+             android:layout_marginTop="50dp"
+            android:id="@+id/mHorizontalSeekBar"
+            android:layout_width="300dp"
+            android:layout_height="100dp">
+    </it399.com.horizontalandcircletimeview.view.HorizontalSeekBar>
+
+
+    <RelativeLayout
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="220dp">
+
+        <it399.com.horizontalandcircletimeview.view.CircleRangeTimeView
+            android:id="@+id/cv"
+            android:layout_width="212dp"
+            android:layout_height="212dp"
+            android:gravity="center_horizontal">
+        </it399.com.horizontalandcircletimeview.view.CircleRangeTimeView>
+    </RelativeLayout>
+
+
+
+</LinearLayout>
